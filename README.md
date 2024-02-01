@@ -3,6 +3,8 @@ agility-game-on-render
 
 Based on "Render" at https://www.render.com/
 
+Based on "Custom Domains - Render Docs" at https://docs.render.com/custom-domains
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
