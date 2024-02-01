@@ -14,3 +14,12 @@ Click **Add Cusotom Domain** and enter your custom domain.
 
 Here we enter: **status.agility-game.com**, hence a root domain.
 
+You should now see the following message with instructions to update DNS settings with your DNS provider. See next section for how to do this.
+
+**status.agility-game.com**
+
+DNS update needed: **Verify** **Delete**
+
+Add a CNAME record for **status** pointing to [agility-game-kener.onrender.com](https://agility-game-kener.onrender.com)
+
+[DNS configuration instructions](https://docs.render.com/custom-domains#configuring-dns-to-point-to-render)
