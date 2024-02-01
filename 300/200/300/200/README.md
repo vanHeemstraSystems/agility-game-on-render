@@ -7,3 +7,9 @@ In our case, our Render subdomain is ```agility-game-kener.onrender.com``` and o
 ![CName_status_agility_game_com](https://github.com/vanHeemstraSystems/agility-game-on-render/assets/1499433/869eda4e-716d-474d-b88a-b7d0271955cd)
 
 DNS Records at https://cp.pcextreme.nl/auroradns/zones/89748cc1-dbeb-4937-aff5-ce87a1d0ba50
+
+Ooops.. we get an error when we pass the verification:
+
+![image](https://github.com/vanHeemstraSystems/agility-game-on-render/assets/1499433/0246adde-0775-44de-be1c-3e40c81ebc0e)
+
+Let's contact Render's Support...
