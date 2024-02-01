@@ -10,6 +10,16 @@ DNS Records at https://cp.pcextreme.nl/auroradns/zones/89748cc1-dbeb-4937-aff5-c
 
 Ooops.. we get an error when we pass the verification:
 
-![image](https://github.com/vanHeemstraSystems/agility-game-on-render/assets/1499433/0246adde-0775-44de-be1c-3e40c81ebc0e)
+![CName_status_certificate_issue](https://github.com/vanHeemstraSystems/agility-game-on-render/assets/1499433/23439e60-4006-4c7c-9973-d13fdb7297e3)
 
 Let's contact Render's Support...
+
+Hold on ... ! 
+
+After a few minutes, the issue resolved itself. Refresh the browser and witness that the certifacte has been issued successfully. 
+
+
+
+Hooray!!
+
+
