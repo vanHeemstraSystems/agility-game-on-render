@@ -18,8 +18,8 @@ Hold on ... !
 
 After a few minutes, the issue resolved itself. Refresh the browser and witness that the certifacte has been issued successfully. 
 
-
+![CName_status_certificate_issued](https://github.com/vanHeemstraSystems/agility-game-on-render/assets/1499433/7a16a195-e5a5-4d5a-a9e8-0e58cef78b33)
 
 Hooray!!
 
-
+**DO NOT FORGET TO ENABLE THE TRANSFER LOCK AGAIN FOR agility-game.com AT versio!
