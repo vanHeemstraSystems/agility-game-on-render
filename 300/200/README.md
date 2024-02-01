@@ -11,3 +11,9 @@ At this point, you'll need to work with your DNS provider (here: ) to add ```CNA
 ## 300 - Other DNS providers (this is us)
 
 See [README.md](./300/README.md)
+
+Once you've updated your DNS records, it can take a few minutes for your domains to be verified on Render. See [Speed up Domain Verification](https://docs.render.com/custom-domains#speed-up-domain-verification) below.
+
+You'll see the domain verification status in green once everything is good to go.
+
+You’re all set! Your custom domains will start pointing to your Render service and we’ll continue to issue and renew TLS certificates for them as long as you’re using Render.
