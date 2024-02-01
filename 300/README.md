@@ -13,3 +13,7 @@ See [README.md](./200/README.md)
 ## 400 - Speed up Domain Verification
 
 ## 500 - Domains with Unicode Characters
+
+## 600 - Add a Health Check
+
+See [README.md](./600/README.md)
