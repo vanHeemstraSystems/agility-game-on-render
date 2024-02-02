@@ -10,7 +10,7 @@ Click **Add Custom Domain** and enter your custom domain.
 
 - If you add a domain containing ```www```, we automatically add the version of your domain without the ```www``` and redirect it to the ```www``` version.
 
-- If you enter a root domain (also called an apex domain) without the ```www``, we automatically add the ```www``` version and redirect it to the root domain.
+- If you enter a root domain (also called an apex domain) without the ```www```, we automatically add the ```www``` version and redirect it to the root domain.
 
 Here we enter: **status.agility-game.com**, hence **not** a root domain, but a subdomain.
 
